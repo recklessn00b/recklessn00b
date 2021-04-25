@@ -6,10 +6,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <details>
 <summary>"Click to expand"</summary>
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
 </details>
 
 
