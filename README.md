@@ -4,7 +4,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </details>
 <p align="center"><img src="https://raw.githubusercontent.com/michaelGRU/michaelGRU/main/gapminder.gif"></p>
 
+<details>
+<summary>"Click to expand"</summary>
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+</details>
+
+
+
