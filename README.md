@@ -40,5 +40,5 @@ ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
  <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
  </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&bg_color=282923&title_color=A6E22E&text_color=66D9EF&langs_count=8&layout=compact"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&bg_color=282923&title_color=A6E22E&text_color=66D9EF&langs_count=8"></p>
 
