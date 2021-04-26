@@ -39,4 +39,4 @@ ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
 
  </p>
 
-<span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&bg_color=282923&title_color=A6E22E&text_color=66D9EF"></span>
+<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&bg_color=282923&title_color=A6E22E&text_color=66D9EF"></p>
