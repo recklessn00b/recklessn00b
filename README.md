@@ -1,42 +1,19 @@
-<details>
-<summary>"Click to expand"</summary>
-  
->consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</details>
-<p align="left"><img src="https://raw.githubusercontent.com/michaelGRU/michaelGRU/main/gapminder.gif"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelgru&label=Profile%20views&color=0e75b6&style=flat" alt="michaelgru" /> </p>
 
-<details>
-<summary>"Click to expand"</summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelgru" alt="michaelgru" /></a> </p>
 
-```r
-library(gapminder)
-library(gganimate)
-library(ggplot2)
-## standard ggplot2
-ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-  geom_point(alpha = 0.7, show.legend = FALSE) +
-  scale_colour_manual(values = country_colors) +
-  scale_size(range = c(2, 12)) +
-  scale_x_log10() +
-  # Here comes the gganimate specific bits
-  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'life expectancy') +
-  transition_time(year) +
-  ease_aes('linear')
 
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&show_icons=true&locale=en&layout=compact" alt="michaelgru" /></p>
 
-### Languages 
-<p align='left'>
-  <code><img height="60" width="60" src="https://raw.githubusercontent.com/recklessn00b/recklessn00b/main/java.PNG"></code>
- <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
- 
- <code><img height="60" width="60" src="https://camo.githubusercontent.com/921feef2c4a66db28e70f982bbfea8f22e6e75f1d3818b1af8cca5cd62c361ff/68747470733a2f2f7777772e7a656c75736c7567692e72752f75706c6f61642f6e6577732f7465726d7332303139313131352d312e706e67"></code>
- <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
- <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelgru&show_icons=true&locale=en" alt="michaelgru" /></p>
 
- </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgru&" alt="michaelgru" /></p>
 
-<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgru&bg_color=282923&title_color=A6E22E&text_color=66D9EF"></p>
+Support 🙏
+
+
+
+
